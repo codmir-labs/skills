@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="set two environment variables">
+<rect x="1" y="1" width="46" height="46" rx="12" fill="#737373" fill-opacity="0.12" stroke="#737373" stroke-opacity="0.4"/>
+<g transform="translate(12 12)" fill="none" stroke="#737373" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" color="#737373">
+<path d="M3 6h9M16 6h5M3 12h3M10 12h11M3 18h11M18 18h3"/><circle cx="14" cy="6" r="2"/><circle cx="8" cy="12" r="2"/><circle cx="16" cy="18" r="2"/>
+</g>
+</svg>
